@@ -8,5 +8,9 @@ This module is for charging a single-cell Li-ion battery. The board includes a l
 ![tp4056 module back](https://github.com/user-attachments/assets/9d087120-4057-49d9-a921-5005664f99de)
 
 
+**More info for load sharing circuit:**
 
+- https://www.thanassis.space/loadsharing.html
+
+- https://blog.zakkemble.net/a-lithium-battery-charger-with-load-sharing/
 
